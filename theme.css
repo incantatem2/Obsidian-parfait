@@ -8,7 +8,6 @@ img {
 
 /* page width */
 .markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
-    max-width: 600px;
     margin-left: -1px;
 }
 
@@ -99,6 +98,9 @@ body {
     --toggle-radius: 0px;
     --toggle-thumb-radius: 0px;
     --slider-thumb-radius: 0px;
+
+--file-line-width:600px;
+
 }
 
 .workspace-tab-header.is-active::before,
