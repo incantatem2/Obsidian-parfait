@@ -6,5 +6,7 @@ Formatting: like in my aged whisky theme, the editor content is aligned left in 
 
 This theme does not use a fixed font other than in tabs and tags.
 
+Update: The readable line length now uses a less aggressive method and will no longer override snippets that change the width, such as wide view.
+
 Screenshot:
 ![](images/parfait-screenshot.jpg)
