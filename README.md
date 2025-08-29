@@ -1,3 +1,6 @@
+### note: This theme will be updated and merged with Cocoa into a single theme with light/dark mode sometime in the near future.
+
+
 # parfait
 
 ### delicious theme 2 (light)
